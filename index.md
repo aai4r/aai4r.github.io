@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Babymind
+title: aai4r
 ---
 
 <link rel="stylesheet" href="/assets/css/member.css">
@@ -10,7 +10,7 @@ title: Babymind
 <div class="bk-container">
   <img class="bk-img" src="/assets/images/main.png">
   <h2 class="bk-header">
-    <i> Building Infant-Mimic Neurocognitive AI </i>
+    <i> Adaptive AI for Robots! </i>
   </h2>
 </div>
 
@@ -32,10 +32,10 @@ title: Babymind
 
 <div class="about content-container">
   <h2 class = "content-title">
-    What is Babymind Project?
+    What is AAI4R Project?
   </h2>
   <p class="content-item">
-   Babymind is a research project which aims to build infant-mimic neuro-cognitive AI technologies. Our project consists of four sub-teams that are responsible for knowledge integration, vision-audio, language-emotion, and robot-behavior. We are planning to experiment our project in real and virtual-reality-based environments.     
+   AAI4R project aims to develop adaptive intelligence technologies for service robots.
   </p>
 </div>
 
