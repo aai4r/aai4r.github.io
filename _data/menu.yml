@@ -4,26 +4,15 @@
 - name: People
   child: false
   link: /
-- name: Projects
-  child: true
-  children :
-  - name: COGNIA
-    link: https://github.com/babymind-project/COGNIA
-  - name: VECA
-    link: https://github.com/GGOSinon/VECA
 - name: Workshop
   child: false
-  link: https://babymind-workshop-2020.github.io/
+  link: /
 - name: Dataset
-  child: true
-  children:
-  - name: Korean Ko Corpus
-    link: https://childes.talkbank.org/access/EastAsian/Korean/Ko.html
-  - name: API
-    link: https://github.com/terrykwon/lena_evaluation
-- name: Open Source
   child: false
-  link: https://github.com/babymind-project
+  link: /datasets
+- name: Codes
+  child: false
+  link: /codes
 - name: Publications
   child: false
   link: /publications
