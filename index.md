@@ -8,7 +8,8 @@ title: aai4r
 <script type="text/javascript" src="/assets/js/index.js"></script>
 
 <div class="bk-container">
-  <img class="bk-img" src="/assets/images/main.png">
+<!--  <img class="bk-img" src="/assets/images/main.png">
+-->
   <h2 class="bk-header">
     <i> Adaptive AI for Robots! </i>
   </h2>
