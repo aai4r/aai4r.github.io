@@ -53,6 +53,9 @@ title: aai4r
           {{ person.name }}
         </div>
         <div class="member-info member-position">
+          {{ person.role }}
+        </div>
+        <div class="member-info member-position">
           {{ person.affiliation }}
         </div>
       </div>
