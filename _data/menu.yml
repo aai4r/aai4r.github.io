@@ -4,10 +4,7 @@
 - name: People
   child: false
   link: /
-- name: Workshop
-  child: false
-  link: /
-- name: Dataset
+- name: Datasets
   child: false
   link: /datasets
 - name: Codes
@@ -16,6 +13,3 @@
 - name: Publications
   child: false
   link: /publications
-- name: Board
-  child: false
-  link: /

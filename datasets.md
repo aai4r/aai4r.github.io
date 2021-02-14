@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Publications
-permalink: /publications
+title: Datasets
+permalink: /datasets
 ---
