@@ -1,9 +1,11 @@
 - name: About
   child: false
   link: /
-- name: People
-  child: false
-  link: /
+- name: Events
+  child: true
+  children:
+    - name: A Special Session on Cloud Robot Intelligence (UR'21)
+      link: /os_ur2021
 - name: Datasets
   child: false
   link: /datasets
@@ -13,9 +15,7 @@
 - name: Publications
   child: false
   link: /publications
-- name: events
-  child: true
-  children:
-    - name: A Special Session on Cloud Robot Intelligence (UR'21)
-      link: /os_ur2021
+- name: People
+  child: false
+  link: /
 
