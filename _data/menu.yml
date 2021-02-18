@@ -13,3 +13,9 @@
 - name: Publications
   child: false
   link: /publications
+- name: events
+  child: true
+  children:
+    - name: A Special Session on Cloud Robot Intelligence (UR'21)
+      link: /os_ur2021
+
