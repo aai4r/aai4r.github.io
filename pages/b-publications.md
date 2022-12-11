@@ -31,7 +31,7 @@ permalink: /publications/
     - sites: [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Cho_Collaborative_Transformers_for_Grounded_Situation_Recognition_CVPR_2022_paper.html) [github](https://github.com/jhcho99/CoFormer)
 
 - Kim, N., Kim, D., Lan, C., Zeng, W., & Kwak, S. (2022). ReSTR: Convolution-free Referring Image Segmentation Using Transformers. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 18145-18154).
-    - sites: [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_ReSTR_Convolution-Free_Referring_Image_Segmentation_Using_Transformers_CVPR_2022_paper.html)
+    - sites: [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_ReSTR_Convolution-Free_Referring_Image_Segmentation_Using_Transformers_CVPR_2022_paper.html) [project](http://cvlab.postech.ac.kr/research/restr/)
 
 - Cho, J., Yoon, Y., Lee, H., & Kwak, S. (2021). Grounded Situation Recognition with Transformers. In Proceedings of the 32nd British Machine Vision Conference.
     - sites: [pdf](https://www.bmvc2021-virtualconference.com/assets/papers/0745.pdf)
