@@ -1,14 +1,29 @@
 ---
 layout: page
 title: About
+author: minsujang
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+본 웹 사이트는 정부 R&D 과제 수행 내용과 성과를 기록하고 공유하기 위한 목적으로 만들었습니다.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+## 과제 정보
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+- 중앙행정기관명: 과학기술정보통신부
+- 전문기관명: 정보통신기획평가원
+- 사업명: 클라우드로봇복합인공지능핵심사업
+- 공고번호: 제2019-0654호
+- 연구개발과제번호: 2020-0-00842
+- 과제명: 실 환경 서비스 상황에서 사용자 반응에 지속적으로 지역(Local) 적응하는 로봇 지능 기술 개발
+
+## 수행 기관
+
+- 주관연구개발기관
+    - 한국전자통신연구원
+- 공동연구개발기관
+    - 한국로봇융합연구원
+    - 한국과학기술원
+    - 포항공과대학교
+    - 주식회사 클로봇
