@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 특허
+feature-img: "assets/img/pexels/travel.jpeg"
 permalink: /patents/
 ---
 

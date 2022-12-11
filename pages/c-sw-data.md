@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SW+Data
+feature-img: "assets/img/pexels/travel.jpeg"
 permalink: /sw-data/
 ---
 
