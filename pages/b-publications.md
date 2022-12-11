@@ -42,11 +42,20 @@ permalink: /publications/
 
 ### Domain Adaptation
 
+- Yun, W. H., Kim, T., Lee, J., Kim, J., & Kim, J. (2021). Cut-and-Paste Dataset Generation for Balancing Domain Gaps in Object Instance Detection. IEEE Access, 9, 14319-14329.
+    - sites: [paper](https://ieeexplore.ieee.org/abstract/document/9326373)
+
+- Yun, W. H., Han, B., Lee, J., Kim, J., & Kim, J. (2021). Target-style-aware unsupervised domain adaptation for object detection. IEEE Robotics and Automation Letters, 6(2), 3825-3832.
+    - sites: [paper](https://ieeexplore.ieee.org/abstract/document/9363588?casa_token=s3tYUUdTHBgAAAAA:C2vaYOK0N9-8iNdekOaHLaY520Ew1GBtxWTOwfaNJKjYhAJbPzjBTjV9oqJFheZgqMaNfEOG)
+
 - Hwang, S., Lee, S., Kim, S., Ok, J., & Kwak, S. (2022). Combating Label Distribution Shift for Active Domain Adaptation. In European Conference on Computer Vision (pp. 549-566). Springer, Cham.
     - sites: [paper](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_32)
 
 
-## 기술 실증
+## 서비스와 기술 실증
+
+- Hellou, M., Lim, J., Gasteiger, N., Jang, M., & Ahn, H. S. (2022). Technical Methods for Social Robots in Museum Settings: An Overview of the Literature. International Journal of Social Robotics, 1-20.
+    - sites: [paper](https://link.springer.com/article/10.1007/s12369-022-00904-y)
 
 - Park, J., Kim, J., Kim, D. Y., Kim, J., Kim, M. G., Choi, J., & Lee, W. (2022, March). User Perception on Personalized Explanation by Science Museum Docent Robot. In 2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 973-975). IEEE.
     - sites: [paper](https://ieeexplore.ieee.org/abstract/document/9889654?casa_token=zClXKMM8EegAAAAA:R_0_LU3gIBk7thJ6rU09nU7pMZJ5Ituw8PVtS47NJoI2unu9-qkvATUyHyVUyHjVnoLodF6R)
