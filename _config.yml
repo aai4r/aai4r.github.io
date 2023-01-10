@@ -5,7 +5,7 @@ url: "https://aai4r.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: aAI4R                                    # site's title
 description: "Hompage for aAI4R(adaptive AI for Cloud Robots Project)"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: assets/img/aai4r-logo.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
